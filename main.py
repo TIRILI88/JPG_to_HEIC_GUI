@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox, filedialog
 from PIL import Image, ImageTk
-import pipreqs
+# import pipreqs
 
 import os
 
